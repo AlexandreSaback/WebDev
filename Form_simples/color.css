@@ -1,0 +1,31 @@
+html,
+body{
+    font-size: 16px;
+}
+
+div{
+    margin: 5rem auto;
+    background: linear-gradient(#e66465, #9198e5);
+    width: 20rem;
+    height: 8rem;
+    border-radius: 8px;
+    padding-left: 24px;
+}
+
+h2{
+    color: white;
+    padding: 0.5rem;
+}
+li{
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    width: 4rem;
+    height: 3rem;
+    background-color: lightblue;
+    padding: 1rem;
+    color: white;
+    border-radius: 8px;
+}
